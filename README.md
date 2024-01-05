@@ -17,7 +17,15 @@ It contains two-day transactions made on 09/2013 by European cardholders. The da
 
 ## Model Evaluation
 Given the class imbalance ratio, the accuracy is calculated using the Area Under the Precision-Recall Curve (AUPRC). (Confusion matrix accuracy is not meaningful for unbalanced classification)
-
+### Precision Recall Curve for Logistic Regression
 ![image](https://github.com/b-kashyap/Credit-Card-Fraud-Detection/assets/155677382/393aa8a2-31ea-4500-bb56-15509bc6456b)
 
+### Precision Recall Curve for Decision Tree
+![image](https://github.com/b-kashyap/Credit-Card-Fraud-Detection/assets/155677382/13c940e3-6ee6-4d7e-97fd-05ea948b2e91)
+
+### Precision Recall Curve for Random Forest
+![image](https://github.com/b-kashyap/Credit-Card-Fraud-Detection/assets/155677382/218aa077-0c41-4bc0-8699-fbe30e362ffe)
+
+### Precision Recall Curve for SVM
+![image](https://github.com/b-kashyap/Credit-Card-Fraud-Detection/assets/155677382/3e019c5c-bfeb-4eeb-818e-7e98a6cb7d0a)
 
