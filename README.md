@@ -16,3 +16,8 @@ It contains two-day transactions made on 09/2013 by European cardholders. The da
 6.SciPy: Specifically, the stats module is used to compute the z-scores for outlier detection.<br>
 
 ## Model Evaluation
+Given the class imbalance ratio, the accuracy is calculated using the Area Under the Precision-Recall Curve (AUPRC). (Confusion matrix accuracy is not meaningful for unbalanced classification)
+
+![image](https://github.com/b-kashyap/Credit-Card-Fraud-Detection/assets/155677382/393aa8a2-31ea-4500-bb56-15509bc6456b)
+
+
