@@ -14,3 +14,5 @@ It contains two-day transactions made on 09/2013 by European cardholders. The da
 4.Seaborn: Works with Matplotlib to provide high-level interface for drawing attractive and informative statistical graphics.<br>
 5.NumPy: For mathematical operations and working with arrays.<br>
 6.SciPy: Specifically, the stats module is used to compute the z-scores for outlier detection.<br>
+
+## Model Evaluation
